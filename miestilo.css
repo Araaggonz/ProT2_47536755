@@ -95,3 +95,30 @@ background-color: #d15e41;
   padding: 1rem;
 }
 
+.img-producto {
+  height: 200px; 
+  object-fit: cover;
+}
+
+.imagen_centrada{
+  max-width: 100%;
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+}
+.form-card {
+      max-width: 500px;
+      margin: 50px auto;
+      padding: 30px;
+      border-radius: 10px;
+      background-color: #fff;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    }
+.form-card-header {
+      background-color: #343a40;
+      color: #fff;
+      padding: 15px;
+      text-align: center;
+      border-radius: 10px 10px 0 0;
+      margin: -30px -30px 20px -30px;
+    }
